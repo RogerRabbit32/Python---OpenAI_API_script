@@ -11,3 +11,7 @@ To run the script on a local machine, one should:
 2. Open the code directory with an appropriate IDE
 3. Install the required dependencies with pip install requirements.txt command
 
+
+
+The sample input file is presented within the code directory and is called 'Reviews.csv', however one could replace that file or data within the file with one of 
+their own, preserving the file structure and format.
