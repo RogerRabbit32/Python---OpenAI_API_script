@@ -5,11 +5,11 @@ The following script opens a CSV file, runs reviews of the imaginary application
 The reviews are then being sorted based on the given rate and saved in a separate CSV file. 
 
 
-<b>To run the script on a local machine, one should:</b>
+<b>To run the script on a local machine, one should:
 
-1. Download the code archive
-2. Open the code directory with an appropriate IDE
-3. Install the required dependencies with pip install requirements.txt command
+<ul>Download the code archive
+Open the code directory with an appropriate IDE
+Install the required dependencies with <code>pip install requirements.txt</code> command </ul></b>
 
 
 
