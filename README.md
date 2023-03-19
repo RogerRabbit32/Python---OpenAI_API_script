@@ -14,6 +14,6 @@ The reviews are then being sorted based on the given rate and saved as a separat
 </ul>
 </b>
 
-
+<br>
 The sample input file is presented within the code directory and is called 'Reviews.csv', however one could replace that file or data within the file with one of 
 their own, preserving the file structure and format.
