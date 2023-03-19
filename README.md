@@ -11,6 +11,7 @@ The reviews are then being sorted based on the given rate and saved as a separat
   <li>Download the code archive</li>
   <li>Open the code directory with an appropriate IDE</li>
   <li>Install the required dependencies with <code>pip install requirements.txt</code> command</li>
+  <li>Implement an environmental variable that will store your OpenAI API key with the name <i>"OPENAI_API_KEY"</i></li>
 </ul>
 </b>
 
