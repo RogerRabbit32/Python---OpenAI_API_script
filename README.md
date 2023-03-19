@@ -7,10 +7,12 @@ The reviews are then being sorted based on the given rate and saved in a separat
 
 <b>To run the script on a local machine, one should:
 
-<ul>Download the code archive
-Open the code directory with an appropriate IDE
-Install the required dependencies with <code>pip install requirements.txt</code> command </ul></b>
-
+<ul>
+  <li>Download the code archive</li>
+  <li>Open the code directory with an appropriate IDE</li>
+  <li>Install the required dependencies with <code>pip install requirements.txt</code> command</li>
+</ul>
+</b>
 
 
 The sample input file is presented within the code directory and is called 'Reviews.csv', however one could replace that file or data within the file with one of 
