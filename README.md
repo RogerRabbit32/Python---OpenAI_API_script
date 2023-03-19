@@ -5,7 +5,7 @@ The following script opens a CSV file, runs reviews of the imaginary application
 The reviews are then being sorted based on the given rate and saved in a separate CSV file. 
 
 
-To run the script on a local machine, one should:
+<b>To run the script on a local machine, one should:</b>
 
 1. Download the code archive
 2. Open the code directory with an appropriate IDE
